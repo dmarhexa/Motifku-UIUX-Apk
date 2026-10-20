@@ -14,13 +14,14 @@
 - 📐 **File Desain (Figma View)**: [tempel tautan Figma]
 - 📄 **Poster / Frame Utama (PDF)**: [tempel tautan atau nama berkas]
 - 🗂️ **Repositori Seluruh Layar (PNG)**: https://github.com/dmarhexa/Motifku-UIUX-Apk
+- 📸 **Profil UMKM yang Diangkat (Instagram)**: https://www.instagram.com/ajisetyansa/
 
 ---
 
 ## 👤 Identitas Peserta
 
-- **Nama Peserta / Tim**: Damar Bima Sahika, Muhammad Faaliq Ichsan
-- **Asal Universitas / Sekolah**: UIN Salatiga
+- **Nama Peserta / Tim**: [isi nama lengkap]
+- **Asal Universitas / Sekolah**: [isi asal institusi]
 - **Cabang Lomba**: UI/UX Design (INTECHFEST 2026)
 - **Nama Aplikasi**: Motifku
 - **Platform**: Aplikasi mobile (Android)
@@ -30,12 +31,12 @@
 
 ## 📝 Deskripsi Singkat
 
-**Motifku** adalah aplikasi yang menghubungkan **pelanggan** dengan **UMKM kreatif di bidang fesyen dan tekstil** (pengrajin batik, konveksi, usaha sablon, dan desainer lokal). Aplikasi menyediakan dua jalur pembelian dalam satu tempat:
+**Motifku** adalah aplikasi desain mandiri untuk **desainer batik independen yang baru merintis usahanya sendiri**. Aplikasi ini menjadi etalase karya sekaligus ruang kerja bersama pelanggan, yang menghubungkan **pelanggan** dengan **UMKM kreatif di bidang fesyen dan tekstil** (desainer batik, pengrajin, konveksi, dan usaha sablon). Rancangan ini juga dapat dipakai oleh UMKM sejenis. Aplikasi menyediakan dua jalur pembelian dalam satu tempat:
 
 1. **Katalog Desain**: produk siap beli (kaos, kemeja, jaket, sarung, kain) yang dikelompokkan berdasarkan gaya **Batik, Grafis, Tipografi, dan Komunitas**.
 2. **Custom Desain**: pelanggan memesan desain sendiri melalui alur 4 langkah. Desainer UMKM mengerjakan, lalu pelanggan me-review hasilnya sebelum produksi.
 
-**UMKM yang diangkat:** UMKM batik dan konveksi/sablon pakaian, khususnya pelaku usaha kecil di sekitar Salatiga yang membuat produk berbasis motif dan pesanan khusus. Konteks lokal ini tampak pada beranda aplikasi lewat banner *Salatiga Batik Design Competition 2026*.
+**UMKM yang diangkat:** usaha **desain batik custom milik [@ajisetyansa](https://www.instagram.com/ajisetyansa/), seorang desainer independen di sekitar Salatiga**, yang sebelumnya bekerja di perusahaan dan kini merintis usaha mandiri. Ia membuat batik custom, misalnya motif dari nama kota, nama organisasi, hingga logo instansi dan komunitas, serta terpilih sebagai **Top 10 Designer pada Salatiga Batik Design Competition 2026**. Saat ini ia mempromosikan karya dan menerima pesanan lewat media sosial dan pesan pribadi, sehingga belum punya sistem sendiri untuk portofolio, pesanan, revisi, dan pembayaran. Motifku dirancang untuk mengisi kebutuhan itu. Konteks ini tampak pada banner *Featured* di beranda aplikasi.
 
 Nama *Motifku* berasal dari kata "motif", identitas visual yang melekat pada batik, tipografi, grafis, hingga seragam komunitas. Akhiran "-ku" menegaskan bahwa desain yang dihasilkan bersifat personal.
 
@@ -45,11 +46,12 @@ Nama *Motifku* berasal dari kata "motif", identitas visual yang melekat pada bat
 
 ### Rumusan Masalah
 
-1. **Pemesanan custom masih manual dan tidak terstruktur.** Konsep, ukuran, warna, dan referensi gambar disampaikan lewat chat yang tercecer, sehingga mudah terjadi salah paham.
-2. **Proses revisi tidak transparan.** Pelanggan sulit memantau tahap pengerjaan, dan UMKM sulit mengelola catatan revisi dari banyak pelanggan sekaligus.
+1. **Pemesanan custom masih manual dan tidak terstruktur.** Pesanan masuk lewat media sosial dan pesan pribadi. Konsep, ukuran, warna, dan referensi gambar disampaikan lewat chat yang tercecer, sehingga mudah terjadi salah paham.
+2. **Proses revisi tidak transparan dan sulit dibatasi.** Pelanggan sulit memantau tahap pengerjaan. Menurut pengalaman desainer yang menjadi acuan, pelanggan bisa meminta revisi berkali-kali dan akhirnya kembali memilih desain awal, sehingga waktu dan tenaga desainer terkuras.
 3. **Etalase digital UMKM terbatas.** Produk bermotif, terutama batik dan desain komunitas, belum punya wadah khusus yang rapi dan mudah dicari.
 4. **Pembayaran dan status pesanan kurang jelas.** Pelanggan sering tidak tahu apakah pesanannya sudah dibayar, sedang diproses, atau sudah dikirim.
 5. **Kesulitan menemukan inspirasi desain.** Pelanggan baru tidak tahu harus mulai dari mana saat ingin membuat desain sendiri.
+6. **Desainer independen yang baru merintis belum punya sistem mandiri.** Portofolio, pesanan, revisi, dan pembayaran tersebar di berbagai tempat dan bergantung pada platform media sosial, tanpa wadah milik sendiri yang profesional.
 
 ### Tujuan & Solusi yang Ditawarkan
 
@@ -125,7 +127,7 @@ Nama *Motifku* berasal dari kata "motif", identitas visual yang melekat pada bat
 
 **Persona 2: Pelanggan Komunitas / Organisasi.** Komunitas, klub, dan kelompok kerja yang memesan seragam atau jaket komunitas. *Kebutuhan:* menyampaikan konsep dan referensi dengan rapi, serta menyetujui desain sebelum produksi.
 
-**Persona 3: Pelaku UMKM (Desainer / Pengrajin).** Pengrajin batik, konveksi, dan usaha sablon yang menerima pesanan custom. *Kebutuhan:* menerima brief yang lengkap sejak awal sehingga komunikasi bolak-balik berkurang.
+**Persona 3: Pelaku UMKM (Desainer / Pengrajin), pengguna utama yang diangkat.** Desainer batik independen yang baru merintis usaha mandiri dan menerima pesanan custom, serta pelaku konveksi dan sablon dengan kebutuhan serupa. *Kebutuhan:* menerima brief yang lengkap sejak awal, mengelola revisi dengan tertib, dan memiliki etalase profesional milik sendiri.
 
 ---
 
