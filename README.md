@@ -12,7 +12,7 @@
 
 - 🎨 **Prototipe Interaktif (Figma)**: [tempel tautan view/prototype publik]
 - 📐 **File Desain (Figma View)**: [tempel tautan Figma]
-- 📄 **Poster / Frame Utama (PDF)**: [tempel tautan atau nama berkas]
+- 📄 **Poster / Frame Utama (PDF)**: https://drive.google.com/file/d/11p0H4tsopymUcsmmgVXCh6yCp1TPYpQa/view?usp=drive_link
 - 🗂️ **Repositori Seluruh Layar (PNG)**: https://github.com/dmarhexa/Motifku-UIUX-Apk
 - 📸 **Profil UMKM yang Diangkat (Instagram)**: https://www.instagram.com/ajisetyansa/
 
