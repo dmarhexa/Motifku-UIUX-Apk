@@ -10,8 +10,8 @@
 
 ## 🔗 Tautan Penting (Quick Links)
 
-- 🎨 **Prototipe Interaktif (Figma)**: [tempel tautan view/prototype publik]
-- 📐 **File Desain (Figma View)**: [tempel tautan Figma]
+- 🎨 **Prototipe Interaktif (Figma)**: https://www.figma.com/proto/EXZf6Evn0KLB8vsOko6tDX/Project-Aplikasi-Mobile?node-id=253-120&t=m9xnOdO8TyfeyEKc-1
+- 📐 **File Desain (Figma View)**: https://www.figma.com/design/EXZf6Evn0KLB8vsOko6tDX/Project-Aplikasi-Mobile?node-id=253-120&t=m9xnOdO8TyfeyEKc-1
 - 📄 **Poster / Frame Utama (PDF)**: https://drive.google.com/file/d/11p0H4tsopymUcsmmgVXCh6yCp1TPYpQa/view?usp=drive_link
 - 🗂️ **Repositori Seluruh Layar (PNG)**: https://github.com/dmarhexa/Motifku-UIUX-Apk
 - 📸 **Profil UMKM yang Diangkat (Instagram)**: https://www.instagram.com/ajisetyansa/
