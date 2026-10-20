@@ -20,8 +20,8 @@
 
 ## 👤 Identitas Peserta
 
-- **Nama Peserta / Tim**: [isi nama lengkap]
-- **Asal Universitas / Sekolah**: [isi asal institusi]
+- **Nama Peserta / Tim**: Damar Bima Sahika, Muhammad Faaliq Ichsan
+- **Asal Universitas / Sekolah**: UIN Salatiga
 - **Cabang Lomba**: UI/UX Design (INTECHFEST 2026)
 - **Nama Aplikasi**: Motifku
 - **Platform**: Aplikasi mobile (Android)
